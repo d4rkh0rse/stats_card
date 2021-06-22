@@ -31,8 +31,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-0DDH0HEVw)
-- Live Site URL: [Add live site URL here](https://stats-card-sol.netlify.app/)
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/stats-preview-card-0DDH0HEVw)
+- Live Site URL: [live](https://stats-card-sol.netlify.app/)
 
 ### Built with
 
